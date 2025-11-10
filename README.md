@@ -2,16 +2,9 @@
 
 ## Overview
 
-This repository contains a Jupyter Notebook titled **Covid-19 Stats.ipynb**, which performs exploratory data analysis on global and regional COVID-19 statistics. The project focuses on understanding the spread, trends, and impact of COVID-19 using publicly available datasets.
+This project analyzes the global spread and progression of COVID-19 using a detailed Jupyter Notebook. The notebook focuses on transforming raw pandemic data into clear insights through visual exploration, trend analysis, and comparative studies across countries and timelines. It aims to help users understand how the virus evolved, which regions were most affected, and what patterns emerged during different phases of the outbreak.
 
-The notebook includes:
-
-* Data loading and cleaning
-* Exploratory data analysis
-* Visualization of trends such as confirmed cases, recoveries, and fatalities
-* Country-level comparisons
-* Time series insights
-
+The analysis highlights key metrics such as confirmed cases, recoveries, fatalities, and daily case trends, supported by clean and intuitive visualizations.
 ---
 
 ## Objectives
